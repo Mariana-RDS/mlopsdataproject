@@ -1,6 +1,6 @@
 [project]
 name = "mlopsdataproject"
-version = "0.1.0.9001"
+version = "0.1.0.9003"
 description = "This is a complete Data Science/MLOps project."
 authors = [
     {name = "Mariana Santos",email = "mrds.profissional@gmail.com"}
@@ -17,6 +17,7 @@ yfinance = "^0.2.66"
 pytest = "^7.4.0"
 ipykernel = "^6.25.2"
 ipython = "<8.16.0"
+streamlit = "^1.51.0"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]

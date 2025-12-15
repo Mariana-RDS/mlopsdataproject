@@ -18,3 +18,12 @@ Active venv
 ```
 source .venv/bin/activate
 ```
+
+## Run the mlopsdataproject app
+
+```
+import mlopsdataproject as mdp
+mdp.run_mlopsdataproject_app()
+```
+
+![mlopsdataproject](src/mlopsdataproject/app/app.png)
